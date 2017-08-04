@@ -6,6 +6,11 @@ function average(data) {
   return _.round(_.sum(data)/data.length);
 }
 
+/**
+ * A reusable chart component.
+ * @param props
+ * @returns {XML}
+ */
 export default (props) => {
     return (
         <div>
