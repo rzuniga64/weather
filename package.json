@@ -32,7 +32,7 @@
     "react-google-maps": "^9.4.5",
     "react-redux": "^5.0.7",
     "react-scripts": "1.1.4",
-    "react-sparklines": "^1.7.0",
+    "react-sparklines": "^1.6.0",
     "redux": "^3.7.2",
     "redux-promise": "^0.5.3",
     "yo": "^2.0.2"
